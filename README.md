@@ -9,6 +9,7 @@ Leveraging Modeling and Simulation to Optimize the Therapeutic Window for Epigen
 
 Antje Walz, Arthur J. Van De Vyver, Li Yu, Marc Birtwistle, Nevan J. Krogan, and Mehdi Bouhaddou
 
+https://doi.org/10.1016/j.pharmthera.2022.108162
 ---------------------------------------------------------------------------------------------------------------------------
 
 ___Please cite accordingly.___
