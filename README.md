@@ -41,15 +41,15 @@ ___THROMBOCYTOPENIA___
 Suppression of circulating platelet counts that lead to varying grades of thrombocytopenia were assessed following the 
 Common Terminology Criteria for Adverse Events (CTCAE) v5.0 hematologic criteria (3):
 
-Grade 0 (baseline): 			150-450x10^9 cells/L (initial value used for simulation was 300x10^9 cells/L)
-Grade 1 (low toxicity): 		75-150x10^9 cells/L
-Grade 2 (moderate toxicity): 		50-75x10^9 cells/L
-Grade 3 (severe toxicity): 		25-50x10^9 cells/L
-Grade 4 (life-threatening toxicity): 	0-25x10^9 cells/L
+Grade 0 (baseline): 			150-450x10<sup>9</sup>  cells/L (initial value used for simulation was 300x10^9 cells/L)
+Grade 1 (low toxicity): 		75-150x10<sup>9</sup>  cells/L
+Grade 2 (moderate toxicity): 		50-75x10<sup>9</sup>  cells/L
+Grade 3 (severe toxicity): 		25-50x10<sup>9</sup>  cells/L
+Grade 4 (life-threatening toxicity):	0-25x10<sup>9</sup> cells/L
 
 When thrombocytopenia occurs over the course of treatment with an epigenetic modifier drug, the treating physician may decide to 
 stop treatment until platelet counts sufficiently recover. Depending on the chosen dosing regimen, insufficient platelet recovery 
-may occur before the next dose is given and these regimens may be suboptimal. We used a cut-off of 100x10^9 cells/L to determine 
+may occur before the next dose is given and these regimens may be suboptimal. We used a cut-off of 100x10<sup>9</sup> cells/L to determine 
 whether re-dosing is allowed based on Piette and Broussard-Steinberg (4).
 
 These considerations are taken into account in figure 4 and 5 of the manuscript, for which a multitude of different doses and 
