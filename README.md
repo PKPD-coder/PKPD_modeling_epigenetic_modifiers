@@ -41,7 +41,7 @@ ___THROMBOCYTOPENIA___
 Suppression of circulating platelet counts that lead to varying grades of thrombocytopenia were assessed following the 
 Common Terminology Criteria for Adverse Events (CTCAE) v5.0 hematologic criteria (3):
 
-Grade 0 (baseline): 			150-450x10<sup>9</sup>  cells/L (initial value used for simulation was 300x10^9 cells/L)
+Grade 0 (baseline): 			150-450x10<sup>9</sup>  cells/L (initial value used for simulation was 300x10<sup>9</sup> cells/L)
 Grade 1 (low toxicity): 		75-150x10<sup>9</sup>  cells/L
 Grade 2 (moderate toxicity): 		50-75x10<sup>9</sup>  cells/L
 Grade 3 (severe toxicity): 		25-50x10<sup>9</sup>  cells/L
